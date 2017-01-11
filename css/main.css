@@ -1,0 +1,201 @@
+/*** sectioning elements ***/
+.map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FAEBD7;
+}
+
+
+header {
+  max-width: 1200px;
+  padding: 5px;
+}
+
+main {
+
+}
+
+footer {
+  background-color: #d3d3d3;
+}
+
+nav {
+
+}
+.navlink {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 30px;
+  font-family: 'Frank Ruhl Libre', sans-serif;
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+
+}
+
+.center {
+  text-align: center;
+  color: #b90836;
+}
+
+.right {
+  text-align: right;
+}
+
+.headingmenu {
+  font-family: 'Lobster Two' , cursive;
+  text-align: center;
+  color: #00cc00;
+  font-size: 40px;
+
+}
+
+.hours {
+  font-family: 'Lobster Two' , cursive;
+  text-align: center;
+  color: #00cc00;
+  font-size: 30px;
+}
+h2 {
+
+}
+
+h3 {
+
+}
+.fancyfont {
+  font-family: 'Lobster Two' , cursive;
+  text-align: center;
+  color: #b90836;
+  padding: 5px;
+}
+
+.fancyfontgreen {
+  font-family: 'Lobster Two' , cursive;
+  text-align: center;
+  color: #00cc00;
+  padding: 5px;
+  line-height: 1.7;
+  font-size: 17px;
+}
+
+.price {
+  text-align: left;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+ .contact {
+   text-align: center;
+   font-size: 50px;
+ }
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+    width: 100%;
+}
+
+tr {
+
+}
+
+th {
+    background-color: #b90836;
+    color: white;
+}
+
+td {
+
+}
+
+th, td {
+    border-bottom: 1px solid #999;
+    padding: 5px;
+}
+
+/*** image styles ***/
+
+img  {
+
+}
+
+.imglogo {
+  width: 300px;
+}
+
+.imgmenu {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*** link styles ***/
+
+a:link {
+    color: #00cc00;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #00cc00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #b90836;
+}
+
+a:active {
+    color: #b90836;
+    text-decoration: none;
+}
